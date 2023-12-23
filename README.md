@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
- # This repo is about unit tests code which i was wriiten for the react components
+ # This repo is about unit tests code which i was written for the react components
 
 in order to run the test suites and test cases ,have to follow the below steps
 1.clone the repo in to your local machine
